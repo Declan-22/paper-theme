@@ -108,6 +108,18 @@
         "version_control.ignored": "#999996ff",
         "unreachable.background": "#99999614",
         "unreachable.border": "#d5d5d2ff",
+        "modified": "#7d91b5",
+        "created": "#7f9678",
+        "deleted": "#ad7771",
+        "hint": "#7d8798ff",
+        "accents": [
+          "#6686b8",
+          "#b17d68",
+          "#729b72",
+          "#9474a8",
+          "#a2945c",
+          "#5d9299"
+        ],
         "players": [
           {
             "cursor": "#5477b8ff",
@@ -294,6 +306,18 @@
         "version_control.ignored": "#777772ff",
         "unreachable.background": "#77777214",
         "unreachable.border": "#3b3b38ff",
+        "modified": "#7b8eab",
+        "created": "#819579",
+        "deleted": "#a87872",
+        "hint": "#858d9aff",
+        "accents": [
+          "#7698cc",
+          "#c18a73",
+          "#80a980",
+          "#a486b8",
+          "#b1a367",
+          "#6da1a8"
+        ],
         "players": [
           {
             "cursor": "#7897caff",
